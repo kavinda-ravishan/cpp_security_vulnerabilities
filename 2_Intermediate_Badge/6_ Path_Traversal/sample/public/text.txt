@@ -1,0 +1,1 @@
+this is from text.txt file in public folder
